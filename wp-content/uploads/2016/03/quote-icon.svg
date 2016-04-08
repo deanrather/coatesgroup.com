@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 69.8 67.8" style="enable-background:new 0 0 69.8 67.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#363F40;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#009DDC;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="st0" x1="38.3" y1="36" x2="50.3" y2="36"/>
+		<polyline class="st1" points="33.3,12 33.3,8 30.3,8 30.3,3 40.3,3 40.3,8 37.3,8 37.3,12 		"/>
+		<path class="st0" d="M43,8.1C55.1,11.6,64,22.8,64,36c0,16-13,29-29,29S6,52,6,36c0-13.2,8.9-24.4,21-27.9"/>
+		<circle class="st1" cx="35" cy="36" r="24"/>
+		<g>
+			<line class="st0" x1="58" y1="12" x2="55" y2="15"/>
+			
+				<rect x="56.7" y="8.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 24.8518 -38.9975)" class="st0" width="5.7" height="4.2"/>
+		</g>
+		<g>
+			<line class="st0" x1="12" y1="12" x2="15" y2="15"/>
+			<rect x="7.7" y="8.4" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 25.3492 10.5)" class="st0" width="5.7" height="4.2"/>
+		</g>
+		<circle class="st0" cx="35" cy="36" r="3"/>
+		<line class="st0" x1="56.3" y1="36" x2="54.3" y2="36"/>
+		<line class="st0" x1="16.3" y1="36" x2="14.3" y2="36"/>
+		<line class="st0" x1="22.3" y1="22" x2="20.3" y2="22"/>
+		<line class="st0" x1="50.3" y1="50" x2="48.3" y2="50"/>
+		<line class="st0" x1="48.3" y1="22" x2="50.3" y2="22"/>
+		<line class="st0" x1="20.3" y1="50" x2="22.3" y2="50"/>
+		<line class="st0" x1="35.3" y1="57" x2="35.3" y2="55"/>
+		<line class="st0" x1="35.3" y1="17" x2="35.3" y2="15"/>
+	</g>
+</g>
+</svg>

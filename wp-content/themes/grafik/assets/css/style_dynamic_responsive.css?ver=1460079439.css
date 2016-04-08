@@ -1,0 +1,19 @@
+
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles-responsive.php grafik_qodef_design_responsive_styles function */
+.qodef-section.qodef-parallax-section-holder { height: auto !important;min-height: 400px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles-responsive.php grafik_qodef_design_responsive_styles function */
+.qodef-tabs.qodef-horizontal .qodef-tabs-nav li a { border-color: #009ddc;}
+
+}
+
+@media only screen and (max-width: 480px){
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles-responsive.php grafik_qodef_design_responsive_styles function */
+.qodef-section.qodef-parallax-section-holder { height: auto !important;min-height: 400px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles-responsive.php grafik_qodef_design_responsive_styles function */
+.qodef-tabs.qodef-horizontal .qodef-tabs-nav li a { border-color: #009ddc;}
+
+}

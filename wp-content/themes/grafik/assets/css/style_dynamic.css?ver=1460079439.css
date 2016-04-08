@@ -1,0 +1,191 @@
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-preload-background { background-image: url(../img/preload_pattern.png) !important;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+body { font-family: Roboto;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-page-header .qodef-sticky-header .qodef-sticky-holder .qodef-logo-wrapper a  { max-height: 90px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, a, p a, .qodef-main-menu ul li:hover a, .qodef-main-menu ul li.qodef-active-item a, body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu > ul > li:hover > a, .qodef-main-menu > ul > li.qodef-active-item > a, .qodef-drop-down .second .inner > ul > li:hover > a, .qodef-drop-down .second .inner ul li.sub ul li:hover > a, .qodef-drop-down .wide .second .inner > ul > li > a:hover, .qodef-drop-down .wide .second .inner ul li.sub .flexslider ul li a:hover, .qodef-drop-down .wide .second ul li .flexslider ul li a:hover, .qodef-drop-down .wide .second .inner ul li.sub .flexslider.widget_flexslider .menu_recent_post_text a:hover, .qodef-header-vertical .qodef-vertical-dropdown-float .second .inner ul li a:hover, .qodef-header-vertical .qodef-vertical-dropdown-toggle .second .inner ul li a:hover, .qodef-header-vertical .qodef-vertical-menu ul li a:hover, .qodef-mobile-header .qodef-mobile-nav a:hover, .qodef-mobile-header .qodef-mobile-nav h4:hover, .qodef-mobile-header .qodef-mobile-menu-opener a:hover, .qodef-side-menu-button-opener:hover, nav.qodef-fullscreen-menu ul li a:hover, nav.qodef-fullscreen-menu ul li ul li a, .qodef-search-slide-header-bottom .qodef-search-submit:hover, .qodef-search-cover .qodef-search-close a:hover, .qodef-message .qodef-message-inner a.qodef-close i:hover, .qodef-ordered-list ol > li:before, .qodef-icon-list-item .qodef-icon-list-icon-holder .qodef-icon-list-icon-holder-inner i, .qodef-icon-list-item .qodef-icon-list-icon-holder .qodef-icon-list-icon-holder-inner .font_elegant, .qodef-price-table .qodef-price-table-inner ul li.qodef-table-prices .qodef-value, .qodef-price-table .qodef-price-table-inner ul li.qodef-table-prices .qodef-price, .qodef-price-table .qodef-price-table-inner ul li.qodef-table-prices .qodef-mark, .qodef-tabs .qodef-tabs-nav li a, .qodef-btn.qodef-btn-outline, #submit_comment, .post-password-form input[type="submit"], input.wpcf7-form-control.wpcf7-submit, .qodef-accordion-holder .qodef-title-holder .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed .qodef-title-holder, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-active, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-hover, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-active .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-hover .qodef-accordion-mark, .qodef-icon-list-item .qodef-icon-list-icon-holder-inner i, .qodef-icon-list-item .qodef-icon-list-icon-holder-inner .font_elegant, .qodef-ordered-list ol>li:before, .qodef-portfolio-filter-holder .qodef-portfolio-filter-holder-inner ul li.active span, .qodef-portfolio-filter-holder .qodef-portfolio-filter-holder-inner ul li.current span, .qodef-portfolio-list-holder article .qodef-item-icons-holder a, .qodef-portfolio-list-holder.qodef-ptf-standard article .qodef-item-icons-holder a:hover, .qodef-portfolio-slider-holder .qodef-portfolio-list-holder.owl-carousel .owl-buttons .qodef-prev-icon i, .qodef-portfolio-slider-holder .qodef-portfolio-list-holder.owl-carousel .owl-buttons .qodef-next-icon i, .qodef-price-table .qodef-price-table-inner ul li.qodef-table-title .qodef-title-content, .qodef-process-holder .qodef-process-item .qodef-process-item-icon-holder-wrapper:after, .qodef-process-holder .qodef-process-item:hover .qodef-process-item-title-holder > *, .qodef-counter-holder .qodef-counter, .qodef-counter-holder .qodef-counter-title, .qodef-price-table .qodef-price-table-inner ul li.qodef-table-content ul li.active:before, .qodef-woocommerce-page .select2-container .select2-choice .select2-arrow b:after, .qodef-sidebar .widget a:hover, .qodef-side-menu .widget a:hover, .qodef-woocommerce-page .product .qodef-add-to-cart-button-inner .added_to_cart, .page-template-default .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart, .page-template-full-width .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart, #submit_comment, .post-password-form input[type="submit"], input.wpcf7-form-control.wpcf7-submit, .qodef-woocommerce-page #reviews input[type="submit"], .qodef-woocommerce-page .qodef-cart-totals .order-total, .qodef-woocommerce-page .woocommerce-checkout-review-order-table .order-total, .qodef-woocommerce-page .checkout_coupon input[type="submit"], .qodef-woocommerce-page .login .form-row input[type="submit"], .qodef-woocommerce-page .lost_reset_password .form-row input[type="submit"], .qodef-woocommerce-page .return-to-shop a, .qodef-blog-holder article .qodef-title-holder .qodef-post-info-date, .qodef-comment-holder .qodef-comment-title > *, .qodef-comment-holder .qodef-comment-text .replay, .qodef-comment-holder .qodef-comment-text .comment-reply-link, .qodef-comment-holder .qodef-comment-text .comment-edit-link, .qodef-social-share-holder.qodef-list li a:hover, .qodef-blog-holder article .qodef-post-info a:hover, .qodef-blog-holder.qodef-blog-type-masonry article:not(.format-quote):not(.format-link) .qodef-post-info, .qodef-blog-holder.qodef-blog-type-masonry article:not(.format-quote):not(.format-link) .qodef-post-info a, .qodef-sidebar .widget.widget_recent_comments a, .qodef-side-menu .widget.widget_recent_comments a, .qodef-sidebar .tagcloud a, .qodef-side-menu .tagcloud a, .qodef-sidebar .qodef-blog-list-holder.qodef-image-in-box .qodef-item-info-section, .qodef-portfolio-single-holder .qodef-portfolio-single-nav span:hover, .qodef-portfolio-single-holder .qodef-portfolio-single-nav span:hover, .qodef-portfolio-single-holder.full-screen-slider .qodef-portfolio-slider-content .qodef-control, .qodef-portfolio-filter-holder .qodef-portfolio-filter-holder-inner ul li:hover span, .qodef-pie-chart-with-icon-holder .qodef-percentage-with-icon i, .qodef-pie-chart-with-icon-holder .qodef-percentage-with-icon span, .qodef-dark-header.qodef-header-style-on-scroll .qodef-page-header .qodef-main-menu > ul > li > a:hover, .qodef-light-header.qodef-header-style-on-scroll .qodef-page-header .qodef-main-menu > ul > li > a:hover, .qodef-team:hover .qodef-team-name a, .qodef-svg-icons-box-holder:hover .qodef-svg-text a, .qodef-blog-list-holder .qodef-item-info-section, .qodef-blog-list-holder .qodef-item-info-section > div a, .qodef-blog-list-holder .qodef-item-info-section > div:before, .qodef-blog-list-holder .qodef-item-info-section span, .qodef-blog-holder article.sticky .qodef-post-title a, .qodef-svg-icons-text-holder:hover .qodef-svg-text a, .qodef-svg-icons-box-holder:hover .qodef-svg-text a, .qodef-team:hover .qodef-team-name a, .qodef-portfolio-single-holder .qodef-portfolio-single-nav .qodef-portfolio-back-btn span, .woocommerce-edit-account input[type=submit], .woocommerce-edit-address input[type=submit], .qodef-menu-area .qodef-featured-icon, .qodef-sticky-nav .qodef-featured-icon, .qodef-portfolio-slider-holder.qodef-full-screen-slider-holder .qodef-portfolio-slider-content .qodef-control, .qodef-blog-holder article .qodef-title-holder .qodef-post-info-date a { color: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-blog-holder article .qodef-btn.qodef-btn-outline:not(.qodef-btn-custom-hover-color):hover, .qodef-title .qodef-title-holder .qodef-breadcrumbs .qodef-current { color: #009ddc!important;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-svg-icons-holder .qodef-svg-icons svg { stroke: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+::selection { background: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+::-moz-selection { background: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-header-vertical .qodef-vertical-dropdown-toggle .second:after, .qodef-header-vertical .qodef-vertical-menu > ul > li > a:before, .qodef-header-vertical .qodef-vertical-menu > ul > li > a:after, .qodef-header-vertical.qodef-vertical-header-hidden .qodef-vertical-menu-hidden-button-line, .qodef-header-vertical.qodef-vertical-header-hidden .qodef-vertical-menu-hidden-button-line:after, .qodef-header-vertical.qodef-vertical-header-hidden .qodef-vertical-menu-hidden-button-line:before, .qodef-title, .qodef-fullscreen-menu-opener:hover .qodef-line, .qodef-fullscreen-menu-opener.opened:hover .qodef-line:after, .qodef-fullscreen-menu-opener.opened:hover .qodef-line:before, .qodef-icon-shortcode.circle, .qodef-icon-shortcode.square, .qodef-progress-bar .qodef-progress-content-outer .qodef-progress-content, .qodef-price-table.qodef-active .qodef-active-text, .qodef-pie-chart-doughnut-holder .qodef-pie-legend ul li .qodef-pie-color-holder, .qodef-pie-chart-pie-holder .qodef-pie-legend ul li .qodef-pie-color-holder, .qodef-tabs .qodef-tabs-nav li.ui-state-active a, .qodef-tabs .qodef-tabs-nav li.ui-state-hover a, .qodef-btn.qodef-btn-solid, #submit_comment:hover, .post-password-form input[type="submit"]:hover, input.wpcf7-form-control.wpcf7-submit:hover, .qodef-accordion-holder:not(.qodef-boxed) .qodef-title-holder.ui-state-active .qodef-accordion-mark, .qodef-accordion-holder:not(.qodef-boxed) .qodef-title-holder.ui-state-hover .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed .qodef-title-holder.ui-state-active, .qodef-accordion-holder.qodef-boxed .qodef-title-holder.ui-state-hover, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder, .qodef-portfolio-list-holder.qodef-ptf-standard article .qodef-item-icons-holder a, .qodef-team.main-info-below-image .qodef-team-image .qodef-team-overlay, .qodef-cover-boxes.cover-box-icon ul li .qodef-box .qodef-box-top-stripe, .qodef-process-holder .qodef-process-item:hover .qodef-icon-shortcode.circle, .qodef-price-table .qodef-price-table-inner .qodef-active-text, .widget_price_filter .ui-slider-range, .widget_price_filter .price_slider_amount .button:hover, .qodef-woocommerce-page .product .qodef-onsale, .page-template-default .woocommerce .product .qodef-onsale, .page-template-full-width .woocommerce .product .qodef-onsale, .woocommerce-pagination .page-numbers li span.current, .woocommerce-pagination .page-numbers li a:hover, .woocommerce-pagination .page-numbers li span.current:hover, .qodef-woocommerce-page .product .qodef-add-to-cart-button-inner .added_to_cart:hover, .page-template-default .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart:hover, .page-template-full-width .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart:hover, #submit_comment:hover, .post-password-form input[type="submit"]:hover, input.wpcf7-form-control.wpcf7-submit:hover, .qodef-woocommerce-page #reviews input[type="submit"]:hover, .qodef-woocommerce-page .qodef-quantity-buttons .qodef-quantity-minus:hover, .qodef-woocommerce-page .qodef-quantity-buttons .qodef-quantity-plus:hover, .qodef-woocommerce-page .checkout_coupon input[type="submit"]:hover, .qodef-woocommerce-page .login .form-row input[type="submit"]:hover, .qodef-woocommerce-page .lost_reset_password .form-row input[type="submit"]:hover, .qodef-woocommerce-page .return-to-shop a:hover, .qodef-social-share-holder.qodef-list li a, .qodef-blog-holder article.format-quote .qodef-post-text .qodef-post-text-inner, .qodef-blog-holder article.format-link .qodef-post-text .qodef-post-text-inner, .qodef-blog-holder article.format-audio .mejs-controls .mejs-time-rail .mejs-time-current, .qodef-blog-holder article.format-audio .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .qodef-pagination li.active span, .qodef-pagination li.active a, .qodef-pagination li a:hover, .qodef-pagination li.active span:hover, .qodef-blog-holder.qodef-blog-type-gallery article:hover .qodef-post-background-holder, footer .widget #searchform input[type="submit"]:hover, .qodef-sidebar #searchform input[type="submit"]:hover, .qodef-side-menu #searchform input[type="submit"]:hover, .qodef-sidebar .widget.widget_archive ul > li > a:after, .qodef-sidebar .widget.widget_categories ul > li > a:after, .qodef-sidebar .widget.widget_pages ul > li > a:after, .qodef-sidebar .widget.widget_meta ul > li > a:after, .qodef-sidebar .widget.widget_nav_menu ul > li > a:after, .qodef-sidebar .widget.widget_product_categories ul > li > a:after, .qodef-side-menu .widget.widget_archive ul > li > a:after, .qodef-side-menu .widget.widget_categories ul > li > a:after, .qodef-side-menu .widget.widget_pages ul > li > a:after, .qodef-side-menu .widget.widget_meta ul > li > a:after, .qodef-side-menu .widget.widget_nav_menu ul > li > a:after, .qodef-side-menu .widget.widget_product_categories ul > li > a:after, .qodef-sidebar .widget.widget_archive ul > li > a:hover:before, .qodef-sidebar .widget.widget_categories ul > li > a:hover:before, .qodef-sidebar .widget.widget_pages ul > li > a:hover:before, .qodef-sidebar .widget.widget_meta ul > li > a:hover:before, .qodef-sidebar .widget.widget_nav_menu ul > li > a:hover:before, .qodef-sidebar .widget.widget_product_categories ul > li > a:hover:before, .qodef-side-menu .widget.widget_archive ul > li > a:hover:before, .qodef-side-menu .widget.widget_categories ul > li > a:hover:before, .qodef-side-menu .widget.widget_pages ul > li > a:hover:before, .qodef-side-menu .widget.widget_meta ul > li > a:hover:before, .qodef-side-menu .widget.widget_nav_menu ul > li > a:hover:before, .qodef-side-menu .widget.widget_product_categories ul > li > a:hover:before, .qodef-underline-link a:hover:before, .qodef-underline-link a:after, .qodef-menu-from-right .qodef-menu-appear .line, .qodef-menu-from-right .qodef-menu-appear .close:before, .qodef-menu-from-right .qodef-menu-appear .close:after, .qodef-main-menu > ul > li > a > span.item_outer:before, .qodef-main-menu > ul > li > a > span.item_outer:after, .qodef-main-menu > ul > li:hover > a > span.item_outer:before, .qodef-team .qodef-team-name a:after, .qodef-team:hover .qodef-team-name a:before, .qodef-svg-icons-box-holder .qodef-svg-text a:after, .qodef-svg-icons-box-holder:hover .qodef-svg-text a:before, .qodef-post-info-bottom .qodef-social-share-holder.qodef-list li a:hover, .qodef-svg-icons-text-holder:hover .qodef-svg-text a:before, .qodef-svg-icons-text-holder .qodef-svg-text a:after, .woocommerce-edit-account input[type=submit]:hover, .woocommerce-edit-address input[type=submit]:hover, #qodef-back-to-top>span { background-color: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-btn.qodef-btn-outline:not(.qodef-btn-custom-hover-bg):hover { background-color: #009ddc!important;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-drop-down .second, .qodef-tabs .qodef-tabs-nav li a, .qodef-btn.qodef-btn-solid, .qodef-btn.qodef-btn-outline, #submit_comment, .post-password-form input[type="submit"], input.wpcf7-form-control.wpcf7-submit, .qodef-accordion-holder .qodef-title-holder.ui-state-active .qodef-accordion-mark, .qodef-accordion-holder .qodef-title-holder.ui-state-hover .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed .qodef-title-holder.ui-state-active, .qodef-accordion-holder.qodef-boxed .qodef-title-holder.ui-state-hover, .qodef-accordion-holder.qodef-boxed .qodef-title-holder, .qodef-accordion-holder.qodef-boxed .qodef-title-holder .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-active .qodef-accordion-mark, .qodef-accordion-holder.qodef-boxed.light .qodef-title-holder.ui-state-hover .qodef-accordion-mark, .qodef-portfolio-list-holder article .qodef-item-icons-holder a, .qodef-portfolio-slider-holder .qodef-portfolio-list-holder.owl-carousel .owl-buttons .qodef-prev-icon, .qodef-portfolio-slider-holder .qodef-portfolio-list-holder.owl-carousel .owl-buttons .qodef-next-icon, .qodef-svg-icons-box-holder, .qodef-tabs.qodef-horizontal .qodef-tabs-nav li:last-child a, .widget_price_filter .price_slider_amount .button:hover, .qodef-woocommerce-page .product .qodef-add-to-cart-button-inner .added_to_cart, .page-template-default .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart, .page-template-full-width .woocommerce .product .qodef-add-to-cart-button-inner .added_to_cart, #submit_comment, .post-password-form input[type="submit"], input.wpcf7-form-control.wpcf7-submit, .qodef-woocommerce-page #reviews input[type="submit"], .qodef-woocommerce-page .checkout_coupon input[type="submit"], .qodef-woocommerce-page .login .form-row input[type="submit"], .qodef-woocommerce-page .lost_reset_password .form-row input[type="submit"], .qodef-woocommerce-page .return-to-shop a, .qodef-woocommerce-page .checkout_coupon input[type="submit"]:hover, .qodef-woocommerce-page .login .form-row input[type="submit"]:hover, .qodef-woocommerce-page .lost_reset_password .form-row input[type="submit"]:hover, .qodef-woocommerce-page .return-to-shop a:hover, blockquote .qodef-blockquote-text, .qodef-single-tags-holder .qodef-tags a:after, .qodef-social-share-holder.qodef-list li a, .qodef-sidebar .tagcloud a:after, .qodef-side-menu .tagcloud a:after, .qodef-sidebar .tagcloud a:hover:after, .qodef-side-menu .tagcloud a:hover:after, .qodef-post-info-bottom .qodef-social-share-holder.qodef-list li a:hover, .woocommerce-edit-account input[type=submit], .woocommerce-edit-address input[type=submit], .woocommerce-edit-account input[type=submit]:hover, .woocommerce-edit-address input[type=submit]:hover, .qodef-shopping-cart-dropdown { border-color: #009ddc;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-btn.qodef-btn-outline:not(.qodef-btn-custom-border-hover):hover { border-color: #009ddc!important;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_design_styles function */
+.qodef-boxed .qodef-wrapper { background-attachment: fixed;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_h1_styles function */
+h1 { color: #444444;font-family: Roboto;font-size: 63px;line-height: 66px;font-weight: 100;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_h2_styles function */
+h2 { color: #444444;font-family: Roboto;font-size: 45px;line-height: 48px;font-weight: 100;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_h3_styles function */
+h3 { color: #444444;font-family: Roboto;font-size: 31px;line-height: 34px;font-weight: 100;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_h4_styles function */
+h4 { color: #444444;font-family: Roboto;font-size: 22px;line-height: 24px;font-weight: 300;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/assets/custom-styles/general-custom-styles.php grafik_qodef_text_styles function */
+p { color: #6e6e6e;font-size: 16px;line-height: 32px;font-weight: 300;}
+
+.masonry-top.qodef-portfolio-single-holder .qodef-portfolio-media { width: calc(100% + 30px);}.masonry-center.qodef-portfolio-single-holder .qodef-portfolio-media { width: calc(100% + 60px);}/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_header_standard_menu_area_styles function */
+.qodef-header-standard .qodef-page-header .qodef-menu-area { background-color: rgba(0, 0, 0, 0);}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_sticky_header_styles function */
+.qodef-page-header .qodef-sticky-header .qodef-sticky-holder { background-color: rgba(43, 44, 50, 1);}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_sticky_header_styles function */
+.qodef-page-header .qodef-sticky-header { height: 90px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_sticky_header_styles function */
+.qodef-page-header .qodef-sticky-header .qodef-logo-wrapper a { max-height: 81px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_sticky_header_styles function */
+.qodef-main-menu.qodef-sticky-nav > ul > li > a { color: #ffffff;font-size: 21px;font-weight: 300;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/header.inc grafik_qodef_sticky_header_styles function */
+.qodef-main-menu.qodef-sticky-nav > ul > li:hover > a, .qodef-main-menu.qodef-sticky-nav > ul > li.qodef-active-item:hover > a, body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-sticky-nav > ul > li:hover > a, body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-sticky-nav > ul > li.qodef-active-item:hover > a { color: #009ddc;}
+
+            .qodef-main-menu.qodef-default-nav > ul > li > a,
+            .qodef-page-header #lang_sel > ul > li > a,
+            .qodef-page-header #lang_sel_click > ul > li > a,
+            .qodef-page-header #lang_sel ul > li:hover > a{
+                                     font-size: 21px;                          font-weight: 300;                                     }
+        
+        
+                    .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li:hover > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item:hover > a,
+            .qodef-page-header #lang_sel ul li a:hover,
+            .qodef-page-header #lang_sel_click > ul > li a:hover{
+            color: #009ddc !important;
+            }
+        
+                    .qodef-main-menu > ul > li > a > span.item_outer:after,
+            .qodef-main-menu > ul > li:hover > a > span.item_outer:before{
+            background-color: #009ddc;
+            }
+        
+                    .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a,
+            body:not(.qodef-menu-item-first-level-bg-color) .qodef-main-menu.qodef-default-nav > ul > li.qodef-active-item > a{
+            color: #009ddc;
+            }
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+                                .qodef-drop-down .narrow .second .inner ul li ul,
+            body.qodef-slide-from-bottom .qodef-drop-down .narrow .second .inner ul li:hover ul,
+            body.qodef-slide-from-top .narrow .second .inner ul li:hover ul{
+            top:-15px;
+            }
+
+        
+        
+                    .qodef-drop-down .second{
+            border-top: 0;
+            }
+        
+                
+        
+
+                    header .qodef-menu-area .qodef-drop-down .second {
+            top: 80%;            }
+        
+
+        
+                    .qodef-drop-down .second .inner>ul,
+            li.narrow .second .inner ul,
+            .qodef-drop-down .narrow .second .inner ul li ul{
+            border: none;
+            }
+
+            .qodef-drop-down .second .inner ul.right li ul{
+            margin-left: 0;
+            }
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        /* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_header_general_styles function */
+.qodef-mobile-header .qodef-mobile-header-inner { height: 55px;background-color: #2b2c32;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_navigation_styles function */
+.qodef-mobile-header .qodef-mobile-nav { background-color: #2b2c32;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_navigation_styles function */
+.qodef-mobile-header .qodef-mobile-nav a, .qodef-mobile-header .qodef-mobile-nav h4 { border-bottom-color: #2b2c32;color: #009ddc;font-size: 28px;line-height: 62px;font-weight: 800;}
+
+            @media only screen and (max-width: 1000px) {
+            /* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_logo_styles function */
+.qodef-mobile-header .qodef-mobile-logo-wrapper a { height: 40px !important;}
+
+            }
+                    @media only screen and (max-width: 480px) {
+            /* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_logo_styles function */
+.qodef-mobile-header .qodef-mobile-logo-wrapper a { height: 40px !important;}
+
+            }
+        /* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_logo_styles function */
+.qodef-mobile-header .qodef-mobile-logo-wrapper a { max-height: 49px;}
+
+/* generated in /home/coatesadmin/public_html/wp-content/themes/grafik/framework/modules/header/custom-styles/mobile-header.php grafik_qodef_mobile_icon_styles function */
+.qodef-mobile-header .qodef-mobile-menu-opener a { color: #009ddc;font-size: 32px;}
+
